@@ -1,0 +1,10 @@
+{
+  "item.cropmod.bun": "Bun",
+  "item.cropmod.burger": "Burger",
+  "item.cropmod.bread_knife": "Bread Knife",
+
+  "creativetab.crop_tab": "Crops and Burgers",
+
+  "tooltip.rubymod.bread_knife_tooltip.shift": "Right click to convert bread into buns\nConverts 1 bread into 2 buns",
+  "tooltip.rubymod.bread_knife_tooltip": "Right click to convert bread into buns\nHold §eSHIFT§r for more information"
+}

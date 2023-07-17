@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "B": {
+      "item": "cropmod:bun"
+    },
+    "S": {
+      "item": "minecraft:cooked_beef"
+    }
+  },
+  "pattern": [
+    "BSB"
+  ],
+  "result": {
+    "item": "cropmod:burger"
+  },
+  "show_notification": true
+}
